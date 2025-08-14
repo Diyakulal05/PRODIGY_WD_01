@@ -13,8 +13,6 @@ It features a clean design, interactive navigation, and fully responsive layout.
 - CSS3 (Flexbox, Media Queries)
 - JavaScript (Vanilla JS)
 
-## 📸 Screenshots
-(Add some screenshots of your project here)
 
 ## 📂 How to Run Locally
 1. Clone this repository:
